@@ -37,3 +37,8 @@ Retour en arrière : En cas de point mort, le robot revient sur ses pas pour exp
 
 Résolution : Une fois la cartographie terminée, le robot identifie la sortie et emprunte le chemin le plus court pour sortir du labyrinthe.
 
+## Contact
+
+If you would like more information about this project, feel free to contact me at:  
+**Email**: [bouchrasahel43@gmail.com](mailto:bouchrasahel43@gmail.com)
+
